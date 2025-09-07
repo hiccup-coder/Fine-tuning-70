@@ -1,0 +1,10 @@
+transformers>=4.42.0
+datasets>=2.20.0
+evaluate>=0.4.2
+torch>=2.2.0
+accelerate>=0.29.0
+scikit-learn>=1.5.0
+tiktoken
+protobuf
+sentencepiece
+pandas
